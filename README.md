@@ -1,5 +1,8 @@
 # Jarkom-Modul-1-024-2023
 
+IT24
+Wisnuyasha Faizal / 5027211036
+
 # No 1
 Filter Expression :
 ```pwsh
